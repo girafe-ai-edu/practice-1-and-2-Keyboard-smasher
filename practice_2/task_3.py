@@ -8,4 +8,4 @@ height = input()
 
 
 #code here
-
+print(float(weight) / (float(height) ** 2))
